@@ -1416,7 +1416,7 @@ body {
 .cid-rBQKoS0nhC {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-1920x1079.jpg");
+  background: linear-gradient(0deg, #cccccc, #2b0e61);
 }
 .cid-rBQKoS0nhC .mbr-iconfont-social {
   font-size: 32px;
@@ -1428,7 +1428,8 @@ body {
 .cid-rBQKpC5N2q {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-1920x960.jpg");
+  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #cebfaf);
 }
 .cid-rBQKpC5N2q .mbr-section-subtitle {
   color: #767676;
